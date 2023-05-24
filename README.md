@@ -14,6 +14,7 @@
 ![설치매니저](https://user-images.githubusercontent.com/53854831/196361805-6ede5f1e-52b6-4906-8b21-cd1be648ccd1.png)
 ![인지도](https://user-images.githubusercontent.com/53854831/196361870-e848c0d5-004f-4cbc-93cd-631ace2d618f.png)
 <img width="1176" alt="성신여대 아카이브" src="https://user-images.githubusercontent.com/53854831/196361828-2bc9c4bc-7c16-4e52-b718-1ae437c3c681.png">
+![인큐비전](https://github.com/omy414/test2/assets/53854831/058d6aea-9a40-429d-a124-7f496a93831e)
 
 
 
